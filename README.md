@@ -1,7 +1,7 @@
 # Elevvo Internship Projects – Tanjina Sikder Tonny
 
 Welcome! This repository contains my **8 completed projects** for the **Elevvo 1-month Internship 2025**.  
-These projects cover **Machine Learning, Data Analytics, and Predictive Modeling**.
+These projects cover Machine Learning.
 
 ---
 
